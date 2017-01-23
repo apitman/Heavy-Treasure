@@ -29,10 +29,6 @@
 ghostSpeed = 1;
 redirectTime = 60 * 1; // Update random direction every 1 second
 
-// These 2 lines were absent in the original submission
-randomX = 100;
-randomY = 100;
-
 alarm[0] = redirectTime;
 image_speed = 1 / 60;
 
