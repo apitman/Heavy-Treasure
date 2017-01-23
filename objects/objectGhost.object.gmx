@@ -29,6 +29,9 @@
 ghostSpeed = 1;
 redirectTime = 60 * 1; // Update random direction every 1 second
 
+randomX = 100;
+randomY = 100;
+
 alarm[0] = redirectTime;
 image_speed = 1 / 60;
 
